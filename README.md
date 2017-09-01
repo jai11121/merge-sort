@@ -1,2 +1,2 @@
 # merge-sort
-Merge sort in python
+merge sort program in python after reding it's algo from clrs
